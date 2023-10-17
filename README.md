@@ -27,3 +27,4 @@ Det neste jeg tenkte var "Hvilken versjon av Maven kjøres på github?", og da i
 Så da la jeg til action "setup-maven" fra stCarolas, hvor jeg setter maven versjonen til 3.9.1, som er det samme jeg kjører på min maskin.
 
 Siden jeg har allerede endret koden min sånn at noen tester feiler, så får jeg en rød X i github som sier at tester har feilet.
+Deretter tar jeg å fikser opp i endringen min i isLeapYear sånn at testene mine fungerer, som jeg kan se på github actions at alle testene har passert.
