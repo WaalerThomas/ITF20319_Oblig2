@@ -16,3 +16,6 @@ Disse er:
 
 Det er bare de to actions jeg trenger. Det neste er å bygge prosjektet med maven, "Build with Maven" steget.
 Deretter kjører jeg testene, "Run tests" steget.
+
+Etter at jeg committet og pushet disse endringene til github, så kjørte action min.
+Når jeg ser på loggen under "Run tests" så kan jeg se at den ikke kjørte testene.
